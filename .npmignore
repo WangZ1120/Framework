@@ -1,0 +1,17 @@
+node_modules/
+src/
+.idea/
+.git/
+public/
+.browserslistrc
+.env
+.env.dev
+.env.prod
+.env.test
+.env.uat
+.gitignore
+.prettierrc.json
+babel.config.js
+package-lock.json
+tsconfig.json
+vue.config.js
